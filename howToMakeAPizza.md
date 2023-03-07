@@ -27,5 +27,6 @@ lista de los pasos necesarios para hacer una pizza 🍕
    - Coloca la pizza en el horno y hornea durante 10-15 minutos, o hasta que la masa esté dorada y los ingredientes estén cocidos.
 
 7. Sirve y disfruta:
+
    - Retira la pizza del horno y deja que se enfríe un poco antes de cortarla.
    - Sirve y disfruta.
