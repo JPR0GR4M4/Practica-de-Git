@@ -20,3 +20,6 @@ lista de los pasos necesarios para hacer una pizza 🍕
 
 5. Añade los ingredientes:
    - Extiende la salsa de tomate sobre la masa y luego coloca los ingredientes que hayas elegido.
+
+6. Hornea la pizza:
+   - Coloca la pizza en el horno y hornea durante 10-15 minutos, o hasta que la masa esté dorada y los ingredientes estén cocidos.
